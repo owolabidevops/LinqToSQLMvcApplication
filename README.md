@@ -1,0 +1,4 @@
+# LinqToSQLMvcApplication
+LinqToSQLMvcApplication visual studio with C# aspmvc Sql server
+
+LINQ to SQL is a mapping between the Relational Database Schema and Objects. The relational data can be manipulated using LINQ by its mapped objects. When an object is linked to relational data, it receives attributes of the relational data. The mapping is done by translating the relational database schemas into object definitions and this can be done automatically by using the LINQ to SQL Tools in Visual Studio,  which are called Object Relational Designer (O/R Designer). The Object Relational Designer is an editor which is used to create the LINQ to SQL mapping. The Object Relational Designer has two panels. The Left side panel is the designer panel where we can drag and drop the required tables from the Server explorer and the right side panel is used to perform advanced configurations like mapping to stored procedures or functions from the database.
