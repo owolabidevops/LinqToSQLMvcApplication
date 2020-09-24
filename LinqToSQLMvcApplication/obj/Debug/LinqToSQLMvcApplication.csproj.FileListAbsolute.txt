@@ -1,0 +1,276 @@
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\csc.exe
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\vbc.exe
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.dll.config
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.pdb
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Antlr3.Runtime.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.SqlServer.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Google.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Newtonsoft.Json.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Owin.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Helpers.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Mvc.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Optimization.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Razor.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Deployment.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Razor.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\WebGrease.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Helpers.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Mvc.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Optimization.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Razor.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Deployment.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Razor.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Antlr3.Runtime.pdb
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Newtonsoft.Json.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.SqlServer.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Google.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.dll
+c:\users\computer\documents\visual studio 2015\Projects\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.pdb
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\csc.exe
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.dll.config
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.pdb
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Owin.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\WebGrease.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.dll
+C:\Users\user\Desktop\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.pdb
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\csc.exe
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.dll.config
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.pdb
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Owin.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\WebGrease.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.dll
+C:\Users\user\Desktop\ASP.NET MVC practice\FAVOUR'S PROJECT\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.pdb
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\csc.exe
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\vbc.exe
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.dll.config
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\LinqToSQLMvcApplication.pdb
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Antlr3.Runtime.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Newtonsoft.Json.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Owin.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Helpers.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Mvc.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Optimization.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Razor.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\WebGrease.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Helpers.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Mvc.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Optimization.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.Razor.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Antlr3.Runtime.pdb
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Newtonsoft.Json.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.csprojResolveAssemblyReference.cache
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.dll
+C:\Users\owolabi\Desktop\SETUP\LinqToSQLMvcApplication\LinqToSQLMvcApplication\obj\Debug\LinqToSQLMvcApplication.pdb
